@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">colorpickerlib</string>
+    <string name="dialog_title">Color Picker</string>
+</resources>
